@@ -1,0 +1,5 @@
+export const GET_HOME_INFO = 'home/get_home_info'
+export const CHANGE_HOME_INFO = 'home/change_home_info'
+export const GET_MORE_LIST = 'home/get_more_list'
+export const ADD_ARTICLE_LIST = 'home/add_article_list'
+export const TOGGLE_SCROLL_TOP = 'home/toggle_scroll_top'
